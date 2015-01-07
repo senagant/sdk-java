@@ -3,6 +3,11 @@
 [![Build Status](https://travis-ci.org/CyberSource/cybersource-sdk-java.png?branch=master)]
 (https://travis-ci.org/CyberSource/cybersource-sdk-java)
 
+##Installation
+        <groupId>com.cybersource</groupId>
+  		<artifactId>cybersource-sdk-java</artifactId>
+  		<version>6.0.1</version>
+
 ##Requirements
 
 
