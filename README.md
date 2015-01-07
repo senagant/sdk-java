@@ -4,12 +4,15 @@
 (https://travis-ci.org/CyberSource/cybersource-sdk-java)
 
 ##Installation
+
 Add dependency to your application pom.xml as below.
- <dependency>
+
+        <dependency>
         <groupId>com.cybersource</groupId>
   		<artifactId>cybersource-sdk-java</artifactId>
   		<version>LATEST</version
-</dependency> 
+        </dependency> 
+		
  Run mvn install, to install dependency
 
 ##Requirements
