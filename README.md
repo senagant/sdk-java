@@ -3,14 +3,9 @@
 [![Build Status](https://travis-ci.org/CyberSource/cybersource-sdk-java.png?branch=master)]
 (https://travis-ci.org/CyberSource/cybersource-sdk-java)
 
-##Repository
-    https://oss.sonatype.org/content/groups/public/com/cybersource/cybersource-sdk-java/   
-		
-Maven dependency
-		
-		<groupId>com.cybersource</groupId>
+        <groupId>com.cybersource</groupId>
   		<artifactId>cybersource-sdk-java</artifactId>
-  		<version>6.0.1</version>
+  		<version>LATEST</version>
 
 ##Requirements
 
